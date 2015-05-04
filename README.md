@@ -50,7 +50,7 @@ Table of Contents
 
 ## Source Code Repos
 
-  * https://bitbucket.org/ - Unlimited public and private git repos for small teams
+  * https://bitbucket.org/ - Free unlimited public and private repos (git and mecurial) for up to 5 users
   * http://chiselapp.com/ - Unlimited public and private Fossil repositories
   * https://github.com - Free for an unlimited number of public repositories
   * https://about.gitlab.com/ - Unlimited public and private git repos with unlimited collaborators
@@ -74,6 +74,8 @@ Table of Contents
   * https://www.blockspring.com/ - Share scripts with anyone on your team: cross language and with spreadsheet users. Free for 5 million runs a month.
   * https://helpmonks.com/ - Shared inbox for teams - Free for open source projects and non-profit organizations.
   * http://typetalk.in/ - Share and discuss ideas with your team through instant messaging on the web or on your mobile.
+  * https://talky.io/ - Free group video chat. Anonymous. Peer‑to‑peer. No plugins, signup, or payment required.
+  * http://sourcetalk.net/ - Code discussion tool, free for open code talks.
 
 ## Code Quality
 
@@ -83,9 +85,11 @@ Table of Contents
   * https://houndci.com/ - Comments on github commits about code quality - free for Open Source
   * https://coveralls.io/ - Display test coverage reports - free for open source
   * https://scrutinizer-ci.com/ - Continuous inspection platform - free for Open Source
-  * https://codecov.io/ - Code coverage tool (SaaS), free for 1 private project and no restrictions for publics repos
+  * https://codecov.io/ - Code coverage tool (SaaS), no restrictions for publics repos and $5 a month for unlimited private repos.
   * https://insight.sensiolabs.com/ - Code Quality for PHP/Symfony projects, free for Open Source
   * https://www.codacy.com/ - Automated code reviews for PHP, Python, Javascript, Scala and CSS - free for open source
+  * https://www.pullreview.com - Automated Code Review for Ruby in GitHub, Bitbucket and Gitlab - free for Open Source
+  * http://gocover.io/ - Code coverage for any [Go](http://golang.org/) package
 
 ## Code Search and Browsing
   * https://sourcegraph.com/ - Java, Go, Python, Node.js, etc., code search/cross-references - free for open source
@@ -122,6 +126,7 @@ Table of Contents
   * https://qualys.com/forms/freescan/owasp/ - Find web app vulnerabilities, audit for OWASP Risks
   * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers compromised systems in your network
   * https://duosecurity.com - Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens.
+  * https://www.tinfoilsecurity.com/ - Automated vulnerability scanning. Free plan = weekly XSS scans.
 
 ## Management Systems
 
@@ -175,6 +180,8 @@ Table of Contents
   * https://www.stathat.com - Get started with ten stats for free, no expiration.
   * https://www.skylight.io - Free for first 100k requests
   * https://www.appdynamics.com - Free for 24h metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
+  * https://deadmanssnitch.com - Monitoring for cron jobs. 1 free snitch (monitor) - more available if you refer others to sign up
+  * http://caliper.io/ - Monitoring for Single Page Apps
 
 ## Crash / Exception handling
 
@@ -213,10 +220,12 @@ Table of Contents
   * http://www.bootstrapcdn.com/ - CDN for bootstrap, bootswatch and font awesome
   * https://surge.sh - Zero-bullshit, single–command, bring your own source control web publishing CDN.
   * https://cdnjs.com/ - CDN for JavaScript libraries, CSS libraries, SWF, images, etc!
-  * http://www.jsdelivr.com/ - A free super-fast CDN for developers and webmasters
+  * http://www.jsdelivr.com/ - super-fast CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
   * https://developers.google.com/speed/libraries/ - The Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
   * https://www.asp.net/ajax/cdn - The Microsoft Ajax Content Delivery Network (CDN) hosts popular third party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
+  * http://rawgit.com - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
+  * https://www.incapsula.com/ - free CDN and DDoS protection
 
 ## PaaS
 
@@ -225,6 +234,7 @@ Table of Contents
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
   * http://hpcloud.com/ - $300 credit over 90 days.
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
+  * https://shellycloud.com/ - Platform for hosting Ruby and Ruby on Rails apps. Shelly Cloud gives €20 free credit
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://www.firebase.com/ - Build realtime apps, free plan has 50 Max Connections, 5 GB Data Transfer, 100 MB Data Storage. 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
@@ -237,6 +247,7 @@ Table of Contents
   * https://platform.telerik.com/ - Build and deploy mobile applications using Javascript. Free plan has 100 MB Data Storage, 1GB File storage, 5GB Bandwidth, 1 million push notifications for BaaS offering, 100 active devices for analytics.
   * http://scn.sap.com/docs/DOC-56411 - The in-memory Platform-as-a-Service offering from SAP. Free developer accounts come with 1GB structured, 1GB unstructured, 1GB of Git data and allow you to run HTML5, Java and HANA XS apps.
   * https://www.mendix.com/ - Rapid Application Development for Enterprises - Unlimited number of free sandbox environments supporting 10 users, 100MB of files and 100MB database storage each.
+  * https://www.pythonanywhere.com - cloud Python app hosting. Beginner account is free - one Python web applications at your-username.pythonanywhere.com domain, 512MB private file storage, one MuSQL database.
 
 ## BaaS
 
@@ -250,13 +261,17 @@ Table of Contents
   * https://layer.com/ - The full-stack building block for communications.
   * https://www.parse.com - Mobile backends, free plan has 30 requests per second, with 20 GB of file and database storage, as well as push notifications for up to 1,000,000 unique recipients.
   * http://quickblox.com/ - A communication backend for instant messaging, video and voice calling, and push notifications
-  
+  * https://pushbots.com - Push notification service. Free for up to 1,500,000 push/month.
+  * http://www.dreamfactory.com/ - DreamFactory is an open source backend platform that provides all of the RESTful services you need to build fantastic mobile and web applications
+  * https://www.mashape.com/ - API Marketplace And Powerful Tools For Private And Public APIs. With the free tier, some features are limited such as monitoring, alerting and support.
+
 ## Web Hosting
 
   * https://www.simplybuilt.com - SimplyBuilt offers free website building and hosting for open source projects (http://www.simplybuilt.com/explore/free-websites-for-open-source-projects). Simple alternative to GitHub Pages.
   * http://www.devport.co - Turn GitHub projects, Apps, and websites into a personal developer portfolio.
   * https://www.netlify.com - Builds, deploy and hosts static site or app, free for 100 MB data and 1 GB bandwidth.
   * https://divshot.com/ - Static Web Hosting for Developers, free basic apps, 1 GB bandwidth, 100 MB storage, custom domains, subdomain SSL.
+  * https://pantheon.io/ - Drupal and WordPress hosting, automated DevOps, and scalable infrastructure. Free for developers and agencies.
 
 ## IaaS
 
@@ -266,22 +281,21 @@ Table of Contents
   * https://cloud.google.com/compute/ - Google Compute Engine gives $300 over 60 days
   * https://cloud.google.com/container-engine/ - Google Container Engine for run Docker containers(Alpha). Pricing: same of Google Compute Engine.
   * https://nsone.net/ - Data Driven DNS, automatic traffic management, 1M free Queries
-  * https://developer.rackspace.com/signup/ - Get $50/month for 12 months to use toward cloud services.
 
 ## DBaaS
 
-   * https://mongolab.com/ - MongoDB as a service (500mb free)
    * https://cloudant.com/ - Hosted database from IBM, free if usage is below $50/month
-   * https://realm.io - Free to use even for commercial projects, under Apache 2.0 License
    * https://orchestrate.io/ - 1 application free
    * https://redislabs.com/redis-cloud - Redis as a Service (25 mb free)
    * https://www.backand.com/ - Back-end as a service (for AngularJS)
    * http://www.zenginehq.com - Build business workflow apps in minutes - free for single users
    * https://parsehub.com/ — Extract data from dynamic sites, turn dynamic websites into APIs, 5 projects free.
    * https://import.io/ - Easily turn websites into APIs, completely free for life.
+   * https://kimonolabs.com - "Turn websites into structured APIs from your browser in seconds", free for public APIs, up to 20 million pages fetch / month. Supports scheduling, JSON, CSV, post-auth, ...
    * https://redsmin.com/ - Online real-time monitoring and administration service for Redis, 1 Redis instance free
    * http://graphstory.com/ - GraphStory offers Neo4j (a Graph Database) as a service
    * http://www.elephantsql.com/ - PostgreSQL as a service (20mb free)
+   * http://www.graphenedb.com/ - Neo4j as a service (up to 1,000 nodes and 10,000 relations free)
 
 ## STUN, WebRTC, Web Socket Servers and other Routers
 
@@ -314,6 +328,7 @@ Table of Contents
    * http://leankit.com/ - Kanban board, that visualizes your workflow. Free up to 10 users.
    * https://www.visualstudio.com/products/what-is-visual-studio-online-vs - Unlimited free private code repositories; Tracks bugs, work items, feedback and more.
    * https://testlio.com - Issue tracking, test management and beta testing platform. Free for private use.
+   * https://www.vivifyscrum.com/ Free tool for Agile project management. Scrum Compatible.
 
 ## Storage and Media Processing
 
@@ -324,12 +339,15 @@ Table of Contents
    * https://podio.com/ - You can use Podio with a team of up to five people and try out the features of the Basic Plan - except User Management.
    * https://shrinkray.io - free image optimization of Github repos
    * https://www.cine.io - Scalable video broadcasting and p2p real-time video chat for iOS, Android, and web. Free tiers available for developers.
+   * http://imagefly.io - Responsive images on-demand.  CDN-fronted image resizing, transcoding, and optimizing.  100 MB/month for free.
 
 ## Data Visualization on Maps
-   
+
+   * http://geocod.io - Geocoding via API or CSV Upload. 2.500 free queries per day.
    * http://gogeo.io/ - Maps and geospatial services with an easy to use API and support for big data
    * https://cartodb.com - Create maps and geospatial APIs from your data and public data.
    * http://www.giscloud.com - Visualize, analyze and share geo data online.
+   * https://www.mapbox.com/ - Maps, geospatial services, and SDKs for displaying map data.
 
 ## Package Build Systems
 
@@ -340,19 +358,21 @@ Table of Contents
 ## IDE and Code Editing
 
    * https://c9.io - IDE in a browser. Incorporates an Ubuntu virtual machine and in-browser terminal access. Integrates with github and bitbucket, but also adds SFTP and generic Git access.
+   * https://codeanywhere.com -  Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub, and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions, and version tracking.
    * https://koding.com - IDE in a browser. Features: Full sudo access - VMs hosted on Amazon EC2 - SSH Access - Real EC2 VM, no LXCs/hypervising - Custom sub-domains - Publicly accessible IP - Ubuntu 14.04 - IDE/Terminal/Collaboration
-   * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration {[More Details](http://goo.gl/J1Zbsg)}
+   * https://www.nitrous.io - Private Linux instance(s) with interactive collaboration, free for 2 hours a day. {[More Details](http://goo.gl/J1Zbsg)}
    * http://visualstudio.com/free - Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more).
    * https://cloud.sagemath.com - Collaborative mathematics-oriented IDE in a browser, with support for Python, LaTeX, IPython Notebooks, etc.
    * https://wakatime.com - quantified self metrics about your coding activity, using text editor plugins - Limited plan for free.
    * https://codenvy.com/ - IDE in a browser, collaborative, git integration, build and run your app in customizable Docker-based runners (free 512Mb RAM to distribute between you runners), pre-integrated deploy to Google Apps.
    * https://apiary.io/ - Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
-   * https://www.mockable.io/ - Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.   
+   * https://www.mockable.io/ - Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
    * https://www.jetbrains.com/products.html - Productivity tools, IDEs and deploy tools. Free license for students, teachers, open source projects, and user groups.
    * https://readme.io/ - Beautiful documentations made easy - free for Open Source
-   * https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx - Visual Studio. Not only for Windows and .NET
    * https://codio.com/ - Codio is a cloud-based computer programming platform for universities, schools, and developer professionals.
    * http://www.stackhive.com/ - Cloud based IDE in browser that supports HTML5/CSS3/jQuery/Bootstrap
+   * http://www.tadpoledb.com/ - IDE in browser Database tool. Support Amazon RDS, Apache Hive, Apache Tajo, CUBRID, MariaDB, MySQL, Oracle, SQLite, MSSQL, PostgreSQL and MongoDB databases.
+   * https://www.sourcelair.com - In-browser IDE for Django, JavaScript, HTML5, Python, and more. Integrates with Git, Mercurial, GitHub, Heroku and more. Free forever for 1 private project.
 
 ## Analytics, Events and  Statistics
 
@@ -362,6 +382,8 @@ Table of Contents
  * http://sematext.com/search-analytics - Free for up to 50K actions/month, 1 day data retention, unlimited dashboards, users, etc.
  * https://usabilityhub.com - Test designs and mockups on real people, track visitors. Free for one user, unlimited tests.
  * https://gosquared.com - Track up to 1,000 data points for free.
+ * https://mixpanel.com - Free 25000 points or 200000 with their badge on your site.
+ * https://keen.io - Custom Analytics for data collection, analysis and visualization. 50,000 events/month free
 
 
 ## International Mobile number verification API and SDK
@@ -370,6 +392,7 @@ Table of Contents
 ## Payment / Billing Integration
 
  * https://www.braintreepayments.com - Credit Card, Paypal, Venmo, Bitcoin, Apple Pay (, ...) integration. Single and Recurrent Payments. First $50 are free of charge.
+ * http://taxratesapi.avalara.com/ - Get the right sales tax rates to charge for the close to 10,000 sales tax jurisdictions in the USA. Free REST API. Registration required.
 
 ## Other Packs
 
