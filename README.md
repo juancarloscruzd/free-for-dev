@@ -226,6 +226,7 @@ Table of Contents
   * https://toranproxy.com/ - Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support.
   * http://rawgit.com - free limited traffic, serves raw files directly from GitHub with proper Content-Type headers.
   * https://www.incapsula.com/ - free CDN and DDoS protection
+  * http://fastly.com/ - free CDN, offers paid account with more features.
 
 ## PaaS
 
